@@ -76,4 +76,5 @@
 ---
 
 📍 &nbsp;Seoul, Korea<br>
-✉️ &nbsp;[nyhouse0223@naver.com](mailto:nyhouse0223@naver.com)
+✉️ &nbsp;[nyhouse0223@naver.com](mailto:nyhouse0223@naver.com)<br>
+💬 &nbsp;@jennytblu
