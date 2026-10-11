@@ -8,10 +8,6 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/nyhouse0223@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:nyhouse0223@naver.com)
-
-<br>
-
 </div>
 
 ---
@@ -76,3 +72,8 @@
 `2026 대학생 AI 연합동아리 1기` &nbsp;|&nbsp; 개인 결과물
 
 - Gemini API와 이미지 분류 모델을 웹에 연결하고, Cloudflare Pages로 직접 배포했습니다.
+
+---
+
+📍 &nbsp;Seoul, Korea<br>
+✉️ &nbsp;[nyhouse0223@naver.com](mailto:nyhouse0223@naver.com)
