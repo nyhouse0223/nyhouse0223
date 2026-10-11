@@ -1,10 +1,6 @@
+<img src="./banner.svg" width="100%" alt="Kim Nayeon · Service Planner">
+
 <div align="center">
-
-<br>
-
-# 김나연
-
-<sub>SERVICE PLANNER</sub>
 
 <br>
 
