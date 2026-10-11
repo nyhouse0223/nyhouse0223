@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <rect width="1200" height="190" rx="14" fill="#F2EEE6"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#1C1C1E" text-anchor="middle">
+    <text x="150" y="98">14,800</text>
+    <text x="450" y="98">250h → 4h</text>
+    <text x="750" y="98">18</text>
+    <text x="1050" y="98">122</text>
+  </g>
+  <g stroke="#B89B6E" stroke-width="1.5">
+    <line x1="135" y1="118" x2="165" y2="118"/>
+    <line x1="435" y1="118" x2="465" y2="118"/>
+    <line x1="735" y1="118" x2="765" y2="118"/>
+    <line x1="1035" y1="118" x2="1065" y2="118"/>
+  </g>
+  <g stroke="#D9D2C5" stroke-width="1">
+    <line x1="300" y1="50" x2="300" y2="140"/>
+    <line x1="600" y1="50" x2="600" y2="140"/>
+    <line x1="900" y1="50" x2="900" y2="140"/>
+  </g>
+  <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="3" fill="#6E6A63" text-anchor="middle">
+    <text x="150" y="148">SPONSORED ITEMS</text>
+    <text x="450" y="148">PARTNERSHIP OPS TIME</text>
+    <text x="750" y="148">STUDENT GROUPS</text>
+    <text x="1050" y="148">PARKING LOTS VERIFIED</text>
+  </g>
+</svg>
