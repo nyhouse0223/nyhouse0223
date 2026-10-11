@@ -43,38 +43,38 @@
 
 ### Projects
 
-#### UNI:CONNECT &nbsp;·&nbsp; 대학생 단체와 기업의 협찬·제휴 매칭 플랫폼
-`2025` &nbsp;|&nbsp; 창업 프로젝트 · 기획 · 운영
+> #### UNI:CONNECT &nbsp;·&nbsp; 대학생 단체와 기업의 협찬·제휴 매칭 플랫폼
+> `2025` &nbsp;|&nbsp; 창업 프로젝트 · 기획 · 운영
+>
+> - 신촌권 **4개 대학 18개 학생 단체**와 기업을 연결하고, 협찬품 **14,800개** 배포를 운영했습니다.
+> - 기업 컨택·사후처리 시간을 **250시간 → 4시간**으로 줄이는 운영모델을 검증했습니다.
+> - UNIS 아이디어 창업 프로젝트 **대상**
 
-- 신촌권 **4개 대학 18개 학생 단체**와 기업을 연결하고, 협찬품 **14,800개** 배포를 운영했습니다.
-- 기업 컨택·사후처리 시간을 **250시간 → 4시간**으로 줄이는 운영모델을 검증했습니다.
-- UNIS 아이디어 창업 프로젝트 **대상**
+> #### [why-this-company](https://github.com/isopink/why-this-company) &nbsp;·&nbsp; 기업 공시로 지원동기 소재를 찾는 서비스
+> `2026 MABC 결선` &nbsp;|&nbsp; 3인 팀 · 기획 담당 &nbsp;|&nbsp; [Service](https://why-this-company.onrender.com)
+>
+> - 수정할 수 없는 예선 스킬은 그대로 두고, **입력과 출력을 서비스 쪽에서 넓히는 구조**를 설계했습니다.
+> - 멘토링 피드백을 반영해 면접 예상 질문 기능과 개수 규칙을 정했습니다.
+> - 아이템 정의, PRD, 사용자 플로우, 브랜딩, 최종 발표 · **48팀 중 결선 진출**
 
-#### [why-this-company](https://github.com/isopink/why-this-company) &nbsp;·&nbsp; 기업 공시로 지원동기 소재를 찾는 서비스
-`2026 MABC 결선` &nbsp;|&nbsp; 3인 팀 · 기획 담당 &nbsp;|&nbsp; [Service](https://why-this-company.onrender.com)
+> #### seoul-parking-info &nbsp;·&nbsp; 서울 공영주차장 빈자리·실제 요금 안내
+> `2026 MABC 예선` &nbsp;|&nbsp; 기획 · 데이터 검증
+>
+> - 서울시 공공데이터 **122곳을 전수 검증**하고, 잘못된 계산 방식에서 **최대 5,500원 오차**를 찾았습니다.
+> - 계산은 코드가, 설명은 LLM이 맡도록 역할을 나눠 LLM의 숫자 오독을 막았습니다.
 
-- 수정할 수 없는 예선 스킬은 그대로 두고, **입력과 출력을 서비스 쪽에서 넓히는 구조**를 설계했습니다.
-- 멘토링 피드백을 반영해 면접 예상 질문 기능과 개수 규칙을 정했습니다.
-- 아이템 정의, PRD, 사용자 플로우, 브랜딩, 최종 발표 · **48팀 중 결선 진출**
+> #### [Patentory](https://github.com/nyhouse0223/patentory-local) &nbsp;·&nbsp; LLM 기반 특허 선행기술 검색
+> `2026 서울대 인공지능 커리어패스` &nbsp;|&nbsp; 발표 · 결과 구조화
+>
+> - 개발팀의 실험 결과를 이해해 문제 → 방법 → 실험 → 결과 흐름으로 정리하고, 최종 발표를 맡았습니다.
 
-#### seoul-parking-info &nbsp;·&nbsp; 서울 공영주차장 빈자리·실제 요금 안내
-`2026 MABC 예선` &nbsp;|&nbsp; 기획 · 데이터 검증
-
-- 서울시 공공데이터 **122곳을 전수 검증**하고, 잘못된 계산 방식에서 **최대 5,500원 오차**를 찾았습니다.
-- 계산은 코드가, 설명은 LLM이 맡도록 역할을 나눠 LLM의 숫자 오독을 막았습니다.
-
-#### [Patentory](https://github.com/nyhouse0223/patentory-local) &nbsp;·&nbsp; LLM 기반 특허 선행기술 검색
-`2026 서울대 인공지능 커리어패스` &nbsp;|&nbsp; 발표 · 결과 구조화
-
-- 개발팀의 실험 결과를 이해해 문제 → 방법 → 실험 → 결과 흐름으로 정리하고, 최종 발표를 맡았습니다.
-
-#### [AIKERS](https://github.com/nyhouse0223/product-builder-lecture) &nbsp;·&nbsp; 웹·API·AI 모델 연동 실습
-`2026 대학생 AI 연합동아리 1기` &nbsp;|&nbsp; 개인 결과물
-
-- Gemini API와 이미지 분류 모델을 웹에 연결하고, Cloudflare Pages로 직접 배포했습니다.
+> #### [AIKERS](https://github.com/nyhouse0223/product-builder-lecture) &nbsp;·&nbsp; 웹·API·AI 모델 연동 실습
+> `2026 대학생 AI 연합동아리 1기` &nbsp;|&nbsp; 개인 결과물
+>
+> - Gemini API와 이미지 분류 모델을 웹에 연결하고, Cloudflare Pages로 직접 배포했습니다.
 
 ---
 
 📍 &nbsp;Seoul, Korea<br>
 ✉️ &nbsp;[nyhouse0223@naver.com](mailto:nyhouse0223@naver.com)<br>
-💬 &nbsp;@jennytblu
+📷 &nbsp;[@jennytblu](https://www.instagram.com/jennytblu)
