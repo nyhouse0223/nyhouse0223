@@ -1,53 +1,78 @@
-<img src="./banner.svg" width="100%" alt="Kim Nayeon · Service Planner">
-
 <div align="center">
 
 <br>
 
-*직접 겪은 불편에서 시작해, 확인한 것으로 서비스를 만듭니다.*
+# 김나연 &nbsp;|&nbsp; Service Planner
 
-<sub><a href="mailto:nyhouse0223@naver.com">nyhouse0223@naver.com</a></sub>
+**직접 겪은 불편에서 시작해, 확인한 것으로 서비스를 만듭니다.**
+
+<br>
+
+[![Email](https://img.shields.io/badge/nyhouse0223@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:nyhouse0223@naver.com)
 
 <br>
 
 </div>
 
-<img src="./highlights.svg" width="100%" alt="협찬품 14,800개 · 제휴 운영 시간 250시간→4시간 · 학생 단체 18곳 · 주차장 122곳 전수 검증">
+---
 
-<br>
+### About
 
-### Approach
+- **현장에서 시작합니다.** 학생회에서 기업 제휴를 맡으며 느낀 비효율을 창업 프로젝트로 만들었습니다.
+- **확인한 것만 말합니다.** 데이터는 직접 열어 검증하고, 없는 값은 지어내지 않습니다.
+- **작게 쪼개 직접 해봅니다.** 모르는 기술은 묻고, 작은 단위로 실행해보며 이해합니다.
+- **기술과 기획 사이를 잇습니다.** 기술 결과를 팀과 사용자의 언어로 옮깁니다.
 
-현장에서 느낀 비효율을 그냥 넘기지 않고 서비스로 만들어 왔습니다.<br>
-데이터는 직접 열어 확인하고, 없는 값은 지어내지 않습니다.<br>
-모르는 기술은 작게 쪼개 직접 해보며, 그 결과를 팀과 사용자의 언어로 옮깁니다.
+---
 
-<br>
+### Tools
 
-### Work
+**Planning & Design**<br>
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**UNI:CONNECT** &nbsp;<sub>2025 · 창업 프로젝트</sub><br>
-대학생 단체와 기업의 협찬·제휴를 연결하는 플랫폼을 기획하고 운영했습니다.<br>
-<sub>4개 대학 18개 단체 · 협찬품 14,800개 · UNIS 아이디어 창업 프로젝트 대상</sub>
+**Data & AI**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Public Data API](https://img.shields.io/badge/Public_Data_API-0066CC?style=flat-square)
 
-**why-this-company** &nbsp;<sub>2026 · MABC 결선</sub><br>
-기업 공시로 지원동기 소재를 찾는 서비스. 3인 팀에서 기획을 맡아, 수정할 수 없는 예선 스킬은 그대로 두고 서비스 쪽에서 구조를 넓혔습니다.<br>
-<sub>48팀 중 결선 진출 · PRD, 사용자 플로우, 브랜딩, 최종 발표 · <a href="https://github.com/isopink/why-this-company">Repo</a> · <a href="https://why-this-company.onrender.com">Service</a></sub>
+**Web & Deploy**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**seoul-parking-info** &nbsp;<sub>2026 · MABC 예선</sub><br>
-서울 공영주차장의 실시간 빈자리와 실제 요금을 알려주는 스킬. 계산은 코드가, 설명은 LLM이 맡도록 나눴습니다.<br>
-<sub>122곳 데이터 전수 검증 · 최대 5,500원 요금 오차 발견</sub>
+---
 
-**Patentory** &nbsp;<sub>2026 · 서울대 인공지능 커리어패스</sub><br>
-LLM 기반 특허 선행기술 검색. 개발팀의 실험 결과를 이해하고 발표 흐름으로 정리했습니다.<br>
-<sub>발표자료 제작 · 최종 발표 · <a href="https://github.com/nyhouse0223/patentory-local">Repo</a></sub>
+### Projects
 
-**AIKERS** &nbsp;<sub>2026 · 대학생 AI 연합동아리 1기</sub><br>
-웹·API·AI 모델을 연결하고 직접 배포해 본 개인 실습.<br>
-<sub>Gemini API · Teachable Machine · Cloudflare Pages · <a href="https://github.com/nyhouse0223/product-builder-lecture">Repo</a></sub>
+#### UNI:CONNECT &nbsp;·&nbsp; 대학생 단체와 기업의 협찬·제휴 매칭 플랫폼
+`2025` &nbsp;|&nbsp; 창업 프로젝트 · 기획 · 운영
 
-<br>
+- 신촌권 **4개 대학 18개 학생 단체**와 기업을 연결하고, 협찬품 **14,800개** 배포를 운영했습니다.
+- 기업 컨택·사후처리 시간을 **250시간 → 4시간**으로 줄이는 운영모델을 검증했습니다.
+- UNIS 아이디어 창업 프로젝트 **대상**
 
-<div align="center">
-<sub>Notion &nbsp;·&nbsp; Figma &nbsp;·&nbsp; Python &nbsp;·&nbsp; HTML/CSS/JS &nbsp;·&nbsp; 공공데이터 API</sub>
-</div>
+#### [why-this-company](https://github.com/isopink/why-this-company) &nbsp;·&nbsp; 기업 공시로 지원동기 소재를 찾는 서비스
+`2026 MABC 결선` &nbsp;|&nbsp; 3인 팀 · 기획 담당 &nbsp;|&nbsp; [Service](https://why-this-company.onrender.com)
+
+- 수정할 수 없는 예선 스킬은 그대로 두고, **입력과 출력을 서비스 쪽에서 넓히는 구조**를 설계했습니다.
+- 멘토링 피드백을 반영해 면접 예상 질문 기능과 개수 규칙을 정했습니다.
+- 아이템 정의, PRD, 사용자 플로우, 브랜딩, 최종 발표 · **48팀 중 결선 진출**
+
+#### seoul-parking-info &nbsp;·&nbsp; 서울 공영주차장 빈자리·실제 요금 안내
+`2026 MABC 예선` &nbsp;|&nbsp; 기획 · 데이터 검증
+
+- 서울시 공공데이터 **122곳을 전수 검증**하고, 잘못된 계산 방식에서 **최대 5,500원 오차**를 찾았습니다.
+- 계산은 코드가, 설명은 LLM이 맡도록 역할을 나눠 LLM의 숫자 오독을 막았습니다.
+
+#### [Patentory](https://github.com/nyhouse0223/patentory-local) &nbsp;·&nbsp; LLM 기반 특허 선행기술 검색
+`2026 서울대 인공지능 커리어패스` &nbsp;|&nbsp; 발표 · 결과 구조화
+
+- 개발팀의 실험 결과를 이해해 문제 → 방법 → 실험 → 결과 흐름으로 정리하고, 최종 발표를 맡았습니다.
+
+#### [AIKERS](https://github.com/nyhouse0223/product-builder-lecture) &nbsp;·&nbsp; 웹·API·AI 모델 연동 실습
+`2026 대학생 AI 연합동아리 1기` &nbsp;|&nbsp; 개인 결과물
+
+- Gemini API와 이미지 분류 모델을 웹에 연결하고, Cloudflare Pages로 직접 배포했습니다.
